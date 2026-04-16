@@ -63,7 +63,7 @@ o   Upgrade to Wi-Fi 6 technology for improved speed, efficiency, and capacity.
 
 o   Implement robust encryption (WPA3) and network segmentation to enhance security.
 
-# Scenario 2: Amigo Te Bchite Corporation Network Upgrade Case Study:
+# Scenario 2: Amigo Tech Bite Corporation Network Upgrade Case Study:
 
 As part of Amigo Corporation’s network upgrade initiative, you have been assigned to transition one of the branch office LANs from IPv4 to IPv6. You aim to configure IPv6 addresses, enable Routing, and verify connectivity using Cisco Packet Tracer.
 
